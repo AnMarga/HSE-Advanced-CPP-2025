@@ -14,7 +14,7 @@
 
 Примеры использования:
 ```cpp
-int kek* = new int{42};
+int* kek = new int{42};
 delete kek;
 
 int* array = new int[100];
